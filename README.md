@@ -25,4 +25,4 @@
 <br>
 ![Screenshot(6)](https://user-images.githubusercontent.com/78218150/139648262-071a0e04-204a-4ffe-83d4-73282816896b.png)
 <br><br>
-<i>The website is still under develpoment. 'Privacy Policy' and 'TnC' pages links have been disabled for now. We'll update them as soon as we are possible. </i>
+<i>The website is still under develpoment. 'Privacy Policy' and 'TnC' pages links have been disabled for now. We'll update them as soon as possible. </i>
